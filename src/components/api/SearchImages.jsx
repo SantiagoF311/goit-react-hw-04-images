@@ -9,7 +9,7 @@ export const searchImages = async (searchTerm, setImages, pageNumber, replace = 
         key: '36787252-5c3b11e3b9a6e8386f9bae3e3', 
         image_type: 'photo',
         orientation: 'horizontal',
-        per_page: 25
+        per_page: 20
       }
     });
 
